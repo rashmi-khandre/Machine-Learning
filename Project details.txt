@@ -1,0 +1,19 @@
+
+ Project Objective:
+
+	We have to predict the salary of an employee given how many years of experience they have.
+	
+Some packages are:
+
+	pandas
+	sklearn
+	matplotlib
+
+Dataset: 
+	It has 2 columns — “Years of Experience” and “Salary” for 30 employees in a company.
+	We will train a Simple Linear Regression model to learn the correlation between the number of years of experience of each employee and their respective salary.
+	Once the model is trained, we will be able to do some sample predictions.
+
+
+
+
